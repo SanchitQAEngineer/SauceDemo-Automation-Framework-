@@ -1,0 +1,14 @@
+# 🛒 SauceDemo Automation Framework
+
+End-to-end Selenium automation framework for SauceDemo e-commerce website.
+
+## 🛠️ Tech Stack
+- Java 17
+- Selenium WebDriver 4.20
+- TestNG 7.9
+- Maven
+- Page Object Model (POM)
+- WebDriverManager 5.9.1
+- ExtentReports
+
+## 📁 Project Structure
