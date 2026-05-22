@@ -1,3 +1,4 @@
+![Selenium Tests](https://github.com/SanchitQAEngineer/SauceDemo-Automation-Framework-/actions/workflows/maven.yml/badge.svg)
 # Selenium Automation Framework
 
 A complete, production-ready Selenium automation framework built with Java, TestNG, and Maven. This framework is designed for testing web applications with a focus on clean code, maintainability, and scalability.
